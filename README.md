@@ -1,8 +1,8 @@
 # Fintech-Vaults
 The FinTech Vaults project is a cutting-edge banking application designed for seamless financial management. It offers secure user authentication, allowing for easy sign-up and login. Users can view their account balance, perform transactions, and access their transaction history. The app includes features for managing charges, viewing privacy policies, and handling account and credit card details. Additionally, it provides settings for password changes and account customization.
 
-Key Features:
-
+---
+## Key Features:
 -> User Authentication and Registration: 
                                       The system will offer a seamless authentication process, allowing existing users to sign in securely while providing new users with the option to register for an account. Upon registration, users will be required to provide essential information to create their account profile.
                                       
@@ -26,7 +26,13 @@ Key Features:
 
 -> Settings: 
               The settings section will allow users to customize their account preferences, including changing their password for enhanced security and logging out of their account to ensure privacy.
-              
-Conclusion:
+
+---
+### Conclusion:
 
 In conclusion, the proposed Banking Management System project with FinTech vault features represents a pioneering effort to leverage technology for the benefit of banking customers. By integrating user-friendly interfaces, robust security measures, and comprehensive functionalities, the platform aims to streamline financial management processes while ensuring transparency, security, and compliance with regulatory standards. Through its innovative features and user-centric design, the project endeavors to redefine the banking experience, empowering users with greater control and confidence in managing their financial affairs
+
+---
+### Tools & Languages
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white&labelColor=68217A" alt="C# badge" style="width: 60px; height: auto;">     <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver" alt="SQL Server badge" style="width: 150px; height: auto; padding: 5px;">     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio" alt="Visual Studio badge" style="width: 190px; height: auto;"> 
+<img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-F1C40F?style=for-the-badge&logo=microsoftsqlserver&logoColor=333333" alt="SQL Server Management Studio badge" style="width: 370px; height: auto;">
